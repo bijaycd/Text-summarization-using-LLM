@@ -3,3 +3,4 @@ langchain
 huggingface_hub
 tiktoken
 transformers
+langchain_community
